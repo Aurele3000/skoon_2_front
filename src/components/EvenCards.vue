@@ -97,7 +97,7 @@
     width: 400px;
     height: auto;
     float: left;
-    margin-left: 70px;
+    margin-left: 50px;
     padding: 10px;
     margin-top: 50px;
 }

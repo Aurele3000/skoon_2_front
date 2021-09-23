@@ -1,7 +1,7 @@
 <template>
     <header>
       <div class="imglead">
-        <img src="../assets/media/Balade2.jpg" alt="Réunion avant collecte" style= "border-radius: 20px; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3)"/>
+        <img src="../assets/media/Balade2.jpg" alt="Réunion avant collecte" style= "width: 1300px; border-radius: 20px; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3)"/>
       </div>
       <div class="imglead23">
         <img src="../assets/media/img-lead23.jpg" alt="Surfer" style= "border-radius: 20px; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3)"/>

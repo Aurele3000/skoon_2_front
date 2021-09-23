@@ -1,7 +1,7 @@
 <template>
     <header>
       <div class="imglead">
-        <img src="../assets/media/img-lead.jpg" alt="Bouteille plastique sur la plage" style= "border-radius: 20px; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3)"/>
+        <img src="../assets/media/img-lead.jpg" alt="Bouteille plastique sur la plage" style= "width: 1300px; border-radius: 20px; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3)"/>
       </div>
             <div class="imglead3">
         <img src="../assets/media/img-lead3.jpg" alt="La plage" style= "border-radius: 20px; box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3)"/>
@@ -31,6 +31,7 @@ header {
 .imglead {
     
   margin-top: 40px;
+  
   
 }
 .imglead3 {

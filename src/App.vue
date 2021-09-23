@@ -8,7 +8,7 @@
 
 <style>
 #app {
-  font-family: Prompt, Helvetica, Arial, sans-serif;
+  font-family: 'Prompt', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
